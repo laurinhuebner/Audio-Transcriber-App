@@ -28,7 +28,7 @@ In diesem Repository findest du daher nur **Screenshots**, eine Projektbeschreib
 ---
 
 ## 📸 Screenshot
-*(Beispiel mit Dummy-Daten / Startansicht der App)*  
+
 
 ![Screenshot](screenshots/ui.png)
 
